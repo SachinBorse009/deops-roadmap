@@ -1,4 +1,4 @@
-# deops-roadmap
+# DevOps-roadmap
 
 ## 01 Week 1 - DevOps Fundamentals and Git
 	- Introduction to DevOps
