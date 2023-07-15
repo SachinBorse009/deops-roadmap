@@ -3,19 +3,19 @@
 ## 01 Week 1 - DevOps Fundamentals and Git
 - [Introduction to DevOps](https://www.javatpoint.com/devops)
 - [Linux Fundamentals](https://www.javatpoint.com/linux-tutorial)
-- YAML
-- Networking Basics
-- What is Git and GitHub?
+- [YAML](https://youtu.be/IA90BTozdow)
+- [Networking Basics](https://www.youtube.com/live/Js5BzDqIJ2U?feature=share)
+- [What is Git and GitHub?](https://youtu.be/AT1uxOLsCdk)
 - What is version control system, repositories, .git folder
 - Git Components
 - Git workflow
 - Git Branching: Checkout, merge, rebase
 - Merge Conflicts & Pull request
 - GitHub Commands
-- Creating Git repository and pushing it to GitHub
+- [Creating Git repository and pushing it to GitHub](https://youtu.be/AT1uxOLsCdk)
 
 ## 02 Week 2 - Docker & Containerization
-- Introduction to Containers 
+- [Introduction to Containers](https://youtu.be/RqTEHSBrYFw)
 - What is Docker?
 - What is Docker image, Docker file, Docker hub?
 - Docker commands
